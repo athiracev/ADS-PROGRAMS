@@ -1,4 +1,4 @@
-//linear serach
+//linear search
 
 #include<stdio.h>
 void main()
